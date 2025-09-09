@@ -16,4 +16,4 @@
 Given the base code of the project, I added a cube object that is rendered to the canvas, upgraded the canvas GUI to allow real-time color change of the rendered object through an control panel in the GUI. The fragment shader is updated to use FBM noise function to apply more interesting texture to the object. The vertex shader is updated to include trigonometric deformations to make the object move in some pattern.
 
 ## Live Demo
-[Install Node.js](https://nodejs.org/en/download/). 
+[Swaying Cube](https://negiowo.github.io/hw00-intro-base/). 
