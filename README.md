@@ -3,7 +3,7 @@
 # HW 0: Intro to Javascript and WebGL
 
 <p align="center">
-  <img width="360" height="360" src="./Screenshot.png">
+  <img width="468" height="360" src="./Screenshot.png">
 </p>
 <p align="center">(Partial result)</p>
 
